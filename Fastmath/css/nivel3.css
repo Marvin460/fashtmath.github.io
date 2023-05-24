@@ -1,0 +1,95 @@
+body{background-image: url(../img/imagen5.jpg);
+    background-repeat: no-repeat;
+      background-position: center center;  
+      height: 500px;
+      width: 100px;
+     background-size: cover;
+    background-attachment: fixed;}
+
+    h1{  font-family: sans-serif;
+      position: absolute;
+        top: 30%;
+        left: 30%;
+        font-size: 80px;
+
+
+
+    }
+
+    .win3{
+    
+      border: 0;
+      padding: 16px 32px;
+      color: rgb(21, 218, 64);
+      font-size: 24px;
+      font-weight: bold;
+      background-color: orange;
+      border-radius: 12px;
+      background: linear-gradient( 45deg);
+    
+      position: absolute;
+      top: 20%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 100px;
+    }
+
+
+
+
+    .loose3{
+  
+      border: 0;
+      padding: 16px 32px;
+      color: #3cecdd;
+      font-size: 24px;
+      font-weight: bold;
+      background-color: orange;
+      border-radius: 12px;
+      background: linear-gradient( 45deg);
+    
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 100px;
+    }
+
+    .perder3{
+  
+      border: 0;
+      padding: 16px 32px;
+      color: #22e75d;
+      font-size: 24px;
+      font-weight: bold;
+      background-color: orange;
+      border-radius: 12px;
+      background: linear-gradient( 45deg);
+    
+      position: absolute;
+      top: 80%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 100px;
+    }
+
+
+     .color{ color: red;}
+    .sinfondo{text-decoration:none;
+      
+   }
+
+    .loose3:hover {
+      background-color: #2a44d6; 
+      color: white;
+    } 
+
+    .perder3:hover {
+      background-color: #2a44d6; 
+      color: white;
+    } 
+  
+    .win3:hover {
+      background-color: #2a44d6; 
+      color: white;
+    } 

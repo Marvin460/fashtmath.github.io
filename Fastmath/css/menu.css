@@ -1,0 +1,172 @@
+body{background-image: url(../img/imagen\ 1.jpg);
+    background-repeat: no-repeat;
+      background-position: center center;  
+      height: 500px;
+      width: 100px;
+     background-size: cover;
+    background-attachment: fixed;}
+    
+
+    .boton1{
+    
+        border: 0;
+        padding: 16px 32px;
+        color: #23b2bd;
+        font-size: 24px;
+        font-weight: bold;
+        background-color: rgb(199, 187, 187);
+        border-radius: 12px;
+        background: linear-gradient( 45deg);
+      
+        position: absolute;
+        top: 30%;
+        left: 30%;
+        transform: translate(-50%, -50%);
+        font-size: 100px;
+      }
+
+      .boton2{
+    
+        border: 0;
+        padding: 16px 32px;
+        color: #dde01d;
+        font-size: 24px;
+        font-weight: bold;
+        background-color: rgb(199, 187, 187);
+        border-radius: 12px;
+        background: linear-gradient( 45deg);
+      
+        position: absolute;
+        top: 30%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 100px;
+      }
+
+      .boton3{
+    
+        border: 0;
+        padding: 16px 32px;
+        color: #1459db;
+        font-size: 24px;
+        font-weight: bold;
+        background-color: rgb(199, 187, 187);
+        border-radius: 12px;
+        background: linear-gradient( 45deg);
+      
+        position: absolute;
+        top: 30%;
+        left: 70%;
+        transform: translate(-50%, -50%);
+        font-size: 100px;
+      }
+
+.boton4{
+    
+        border: 0;
+        padding: 16px 32px;
+        color: rgb(21, 218, 64);
+        font-size: 24px;
+        font-weight: bold;
+        background-color: rgb(199, 187, 187);
+        border-radius: 12px;
+        background: linear-gradient( 45deg);
+      
+        position: absolute;
+        top: 70%;
+        left: 40%;
+        transform: translate(-50%, -50%);
+        font-size: 100px;
+      }
+
+
+
+
+      .boton5{
+    
+        border: 0;
+        padding: 16px 32px;
+        color: #ec3c3c;
+        font-size: 24px;
+        font-weight: bold;
+        background-color: rgb(199, 187, 187);
+        border-radius: 12px;
+        background: linear-gradient( 45deg);
+      
+        position: absolute;
+        top: 70%;
+        left: 60%;
+        transform: translate(-50%, -50%);
+        font-size: 100px;
+      }
+
+      .segundo{text-decoration:none;
+      }
+
+      .tercero{text-decoration:none;}
+
+      .cuarto{text-decoration:none}
+
+      .quinto{text-decoration:none}
+
+      .sexto{text-decoration:none}
+
+      .boton1{
+        -webkit-transition-duration: 0.4s; /* Safari */
+        transition-duration: 0.4s;
+    }
+    
+    .boton1:hover {
+        background-color: #4CAF50; /* Green */
+        color: white;
+    }
+
+    .boton2{
+      -webkit-transition-duration: 0.4s; /* Safari */
+      transition-duration: 0.4s;
+  }
+  
+  .boton2:hover {
+      background-color: #4CAF50; /* Green */
+      color: white;
+  }
+
+  .boton3{
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.boton3:hover {
+    background-color: #4CAF50; /* Green */
+    color: white;
+}
+
+.boton4{
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.boton4:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+} 
+
+.boton5{
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.boton5:hover {
+  background-color: #4CAF50; /* Green */
+  color: white;
+} 
+
+.color1{color: aquamarine;}
+
+.color2{color: red;}
+
+.color3{color: yellow;}
+
+.color4{color: #1459db;}
+
+.color5{color: rgb(100, 237, 107);}

@@ -1,0 +1,31 @@
+body{background-image: url(../img/pantalla\ de\ victoria.jpg);
+    background-repeat: no-repeat;
+      background-position: center center;  
+      height: 500px;
+      width: 100px;
+     background-size: cover;
+    background-attachment: fixed;}
+      
+    
+    .sinfondo{text-decoration: none;}
+
+
+
+    .win{
+      border: 0;
+      padding: 16px 32px;
+      color: #ec3c3c;
+      font-size: 30px;
+      font-weight: bold;
+      position: absolute;
+      top: 70%;
+      left: 43%;
+      
+      
+      background: none;
+      }
+      .regreso{background-color: gray;
+        font-size: 70px;
+        
+        color: red;
+        }
